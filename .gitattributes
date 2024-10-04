@@ -1,2 +1,7 @@
+anyconnect-linux-2.5.2014-k9.pkg filter=lfs diff=lfs merge=lfs -text
+anyconnect-macosx-i386-2.5.2014-k9.pkg filter=lfs diff=lfs merge=lfs -text
+anyconnect-win-2.5.2014-k9.pkg filter=lfs diff=lfs merge=lfs -text
+asa9-12-4-52-smp-k8.bin filter=lfs diff=lfs merge=lfs -text
+asdm-7131-101.bin filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.pkg filter=lfs diff=lfs merge=lfs -text
