@@ -6,7 +6,7 @@ Includes a copy of the main .bin firmware, a copy of the ASDM, and one AnyConnec
 
 As this is a security appliance, please verify the MD5/SHA256 hash below after installing.
 
-This repository will likely not recieve updates (I mean what is there to update, right), so it will stay archived for the time being.
+This repository will likely not recieve updates.
 
 # SHA256:
 `asa9-12-4-52-smp-k8.bin` (Main ASA Firmware)
